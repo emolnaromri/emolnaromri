@@ -1,4 +1,4 @@
-- 👋im a - fuckin - packet desequencer
+im a - fuckin - packet desequencer
 802.11 frames blasting out your speaker yuh -
 farm to table with the bytes that i be crafting
 fuzzing protocols i juke your wake on LAN if it be napping
