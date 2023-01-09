@@ -1,4 +1,4 @@
-im a - fuckin - packet desequencer
+im a - f**kin - packet desequencer
 
 802.11 frames blasting out your speaker yuh
 
@@ -8,7 +8,7 @@ fuzzing protocols i juke your wake on LAN if it be napping
 
 tapping mana cast a pointer to a struct
 
-what the fuck
+what the f**k
 
 im a wizard in the ways of the computer
 
